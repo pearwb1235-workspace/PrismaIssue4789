@@ -1,0 +1,17 @@
+{
+  "name": "prismaissue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@prisma/cli": "^2.13.1"
+  },
+  "devDependencies": {
+    "@prisma/client": "^2.13.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
